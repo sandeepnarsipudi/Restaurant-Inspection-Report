@@ -1,4 +1,4 @@
-🍽️ Restaurant Inspection Dashboard (Power BI)
+Restaurant Inspection Dashboard (Power BI)
 
 Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNjg4ZmNhYjEtMTUzNC00ZDk2LWE4ZDAtODI1NDM4MmM1OTNjIiwidCI6IjIzODk2NDkwLTdlNzMtNGQ1Zi1hZjQ5LTBmMjUwMzQ5NWQ3NSJ9
 
