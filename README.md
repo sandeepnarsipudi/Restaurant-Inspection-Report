@@ -1,4 +1,5 @@
-Restaurant Inspection Dashboard (Power BI)
+<h2 style="font-size:40px;">Restaurant Inspection Dashboard (Power BI)
+</h2>
 
 Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNjg4ZmNhYjEtMTUzNC00ZDk2LWE4ZDAtODI1NDM4MmM1OTNjIiwidCI6IjIzODk2NDkwLTdlNzMtNGQ1Zi1hZjQ5LTBmMjUwMzQ5NWQ3NSJ9
 
